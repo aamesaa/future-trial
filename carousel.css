@@ -3,6 +3,8 @@
 .container {
   position: relative;
   margin: auto;
+  width: 275px;
+
 }
 
 img {
